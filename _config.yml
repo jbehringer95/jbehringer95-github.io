@@ -9,7 +9,7 @@
 title: My Website
 
 # Your name to show in the footer
-author: Some Person
+author: Justin Behringer
 
 # --- List of links in the navigation bar --- #
 
@@ -39,15 +39,15 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "justin.caise95@gmail.com"
-  #facebook: deanattali
-  github: jbehringer95
-  #twitter: daattali
-  #patreon: DeanAttali
-  #youtube: c/daattali
+   email: "justin.caise95@gmail.com"
+   github: jbehringer95
+   linkedin: justin-behringer
+#  facebook: deanattal
+#  twitter: daattali
+#  patreon: DeanAttali
+#  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-   linkedin: justin-behringer
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
