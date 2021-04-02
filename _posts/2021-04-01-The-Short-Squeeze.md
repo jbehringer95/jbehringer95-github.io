@@ -8,7 +8,7 @@ share-img:
 tags: [Stock]
 ---
 
-On January 2021 Gamestop and AMC theater stocks all skyrocketed primarily due to the Reddit group WSB. It is mainly due to both of them being heavily shorted. Both of these stock is heavily volatile stocks with AMC being 130.3(23% percentile rank) and GME being 194.4(82% percentile rank). The average volatility in stocks is roughly 15%. 
+On January 2021 Gamestop and AMC theater stocks all skyrocketed primarily due to the Reddit group WSB(Wall Street Bet). It is also because both of them are heavily shorted too. Both of these stock is heavily volatile stocks with AMC being 130.3(23% percentile rank) and GME being 194.4(82% percentile rank). The average volatility in stocks is roughly 15%. 
 
 I want to see if the stock prices are somewhat correlated with each other. I ended up grabbing the last 6 months of GME and AMC stock prices. The data included the date, the open, close, high, and the low of the prices and it included the volumes of the stock traded for that day. I then added the percent change each day on the stock prices by doing the close minus the open then divided it by the open to get it. 
 
