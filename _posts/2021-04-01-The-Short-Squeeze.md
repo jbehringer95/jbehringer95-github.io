@@ -2,7 +2,7 @@
 layout: post
 title: Is AMC and GME price related
 subtitle: First Data Science Blog by Justin Behringer
-cover-img: 
+cover-img: https://s.marketwatch.com/public/resources/images/MW-HW389_market_ZG_20191205080819.jpg
 thumbnail-img: 
 share-img: 
 tags: [Stock]
