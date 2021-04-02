@@ -14,13 +14,12 @@ I want to see if the stock prices are somewhat correlated with each other. I end
 
  
 Ho = Are null hypothesis is that AMC price has no relation with GME price and the slope = 0.
- 
+
 Ha = Are alternative hypothesis is that AMC price has a relationship with GME price and the slope does not equal 0.
- 
- 
-Ho: $\beta_1$ = 0
- 
-Ha: $\beta_1 \neq$ 0
+
+Ho:  β1 = 0
+
+Ha:  β1 ≠ 0
 
 Before we could do any data testing on the data I would need to remove all the dollar signs and turn the prices into floats. After all the values were turned into floats I figured I was going to use the open price for GME and AMC to find the p-value of them. I ended up using a two-sample T-test and running an OLS regression model. The results of the two tests were able to let me know to reject my null hypothesis and say that AMC price is related to GME price. I was able to conclude that by seeing the p-value was basically 0 for the test.
 
